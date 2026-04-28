@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mokangmedical.github.io/罕见病/sitemap.xml
